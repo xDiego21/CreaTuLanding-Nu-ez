@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Boton = ({ nombre, precio, onAgregar }) => {
     const Click = () => {
         if (onAgregar) {

@@ -1,5 +1,3 @@
-// components/NavBar.jsx
-import React from 'react';
 import logoTienda from '../../assets/logoDeTienda.png'
 const NavBar = () => {
     return (

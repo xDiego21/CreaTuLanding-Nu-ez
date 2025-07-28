@@ -1,5 +1,3 @@
-// components/Contenedor.jsx
-import React from 'react';
 import Boton from '../Boton/boton';
 
 const Contenedor = ({ mensaje, nombre, genero, precio }) => {
